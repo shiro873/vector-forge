@@ -1,0 +1,3 @@
+[tool.poetry]
+name = "ai-embedding"
+version = "0.1.0"
